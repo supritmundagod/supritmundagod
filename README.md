@@ -22,12 +22,5 @@
 - **Backend:** Spring Boot  
 - **Tools:** Git, GitHub, VS Code  
 
----
-
-### 📫 Connect
-- LinkedIn: add-link-here  
-- Email: add-email-here  
-
----
 
 ⭐ *Learning step by step and building real-world skills*
