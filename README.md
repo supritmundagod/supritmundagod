@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**supritmundagod/supritmundagod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Suprit</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Learner;Spring+Boot+%7C+React;Building+Projects+and+Learning" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🎓 Computer Science student  
+- 💻 Learning **Java Full Stack Development**  
+- 🌱 Currently exploring **Spring Boot & React**  
+- 🚀 Building beginner projects  
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** Java, SQL, JavaScript  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Spring Boot  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supritmundagod&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect
+- LinkedIn: add-link-here  
+- Email: add-email-here  
+
+---
+
+⭐ *Learning step by step and building real-world skills*
