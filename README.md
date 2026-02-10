@@ -24,13 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supritmundagod&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect
 - LinkedIn: add-link-here  
 - Email: add-email-here  
