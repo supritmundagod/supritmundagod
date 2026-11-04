@@ -116,27 +116,28 @@ philosophy: "Build. Experiment. Improve. Repeat."
 <div align="center">
 
 <a href="https://github.com/supritmundgod/NIMBUS-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundgod&repo=NIMBUS-AI&theme=tokyonight&hide_border=true"/>
+  <h3> NIMBUS-AI </h3>
 </a>
+<p>AI-powered application development project.</p>
 
 <a href="https://github.com/supritmundgod/RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundgod&repo=RAG&theme=tokyonight&hide_border=true"/>
+  <h3> RAG </h3>
 </a>
+<p>Retrieval-Augmented Generation project.</p>
 
 <a href="https://github.com/supritmundgod/KARTZO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundgod&repo=KARTZO&theme=tokyonight&hide_border=true"/>
+  <h3> KARTZO </h3>
 </a>
+<p>Web development project.</p>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/supritmundgod?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 ---
-
 <!-- ================================================= -->
 
 <!--                  GITHUB STATS                     -->
@@ -168,7 +169,11 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supritmundgod&theme=tokyo-night" width="100%" />
+<a href="https://github.com/supritmundgod?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/View-GitHub_Contribution_History-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 </div>
 
