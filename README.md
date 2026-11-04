@@ -1,250 +1,198 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0b0b0b"/>
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=rounded&color=0:101827,50:172554,100:0369a1&height=180&section=header&text=SUPRIT%20MUNDGOD&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=70&descColor=67e8f9"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=13&duration=3500&pause=1200&color=287BFF&center=true&vCenter=true&width=500&lines=INDEPENDENT+THINKER.;ENGINEERING+INTELLIGENCE.;BUILDING+WHAT+MATTERS."/>
-
-<br/><br/>
-
-# SUPRIT MUNDAGOD
-
-### <sup>01 — DISCIPLINE</sup>
-
-# AI ENGINEER
-
-### <sup>02 — CRAFT</sup>
-
-# FULL STACK DEVELOPER
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Turning+Ideas+Into+Digital+Products;Exploring+AI+%26+Modern+Engineering;Designing+Scalable+Solutions"/>
 
 <br/>
 
-`ARTIFICIAL INTELLIGENCE`   ·   `SOFTWARE ENGINEERING`   ·   `PRODUCT DEVELOPMENT`
-
-<br/><br/>
-
-<a href="https://github.com/supritmundagod">GITHUB ↗</a>
-     <a href="https://www.linkedin.com/in/suprit-mundagod">LINKEDIN ↗</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
+<a href="https://github.com/supritmundagod">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/suprit-mundagod">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
+
+## ✦ A Little About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-### 03 — ABOUT
+### Hello, I'm Suprit.
 
-## Engineering ideas into reality.
+I'm a Computer Science student passionate about **Artificial Intelligence, Full Stack Development and Software Engineering**.
 
-Computer Science student focused on the intersection of Artificial Intelligence and Full Stack Engineering.
+I enjoy building practical applications, experimenting with emerging technologies and transforming ideas into functional digital experiences.
 
-Interested in building intelligent applications, designing scalable systems and turning complex technical ideas into useful products.
-
-I value thoughtful engineering, practical experimentation and clean implementation.
+Currently focused on developing intelligent applications and improving my engineering skills through real-world projects.
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
-### CURRENT FOCUS
+### Quick Overview
 
-`01` AI Applications
+```yaml
+name: Suprit Mundgod
+role: AI & Full Stack Developer
+education: Computer Science
 
-`02` Full Stack Systems
+interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - System Design
+  - Software Engineering
 
-`03` Backend Engineering
-
-`04` Product Development
-
-<br/>
-
-**PHILOSOPHY**
-
-Build deliberately.
-
-Experiment constantly.
-
-Improve continuously.
+mindset: Build. Learn. Improve.
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
+## ✦ Technology Stack
 
-### 04 — TECHNICAL ECOSYSTEM
+<div align="center">
 
-<table>
-<tr>
-<td width="25%" valign="top">
+**PROGRAMMING LANGUAGES**
 
-**LANGUAGES**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-</td>
-<td width="25%" valign="top">
-
-**FRONTEND**
+**FRONTEND DEVELOPMENT**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
-</td>
-<td width="25%" valign="top">
+<br/><br/>
 
-**BACKEND**
+**BACKEND DEVELOPMENT**
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark" />
 
-</td>
-<td width="25%" valign="top">
+<br/><br/>
 
-**TOOLS**
+**TOOLS & ENVIRONMENT**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
 
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
+## ✦ Featured Projects
 
-### 05 — SELECTED WORKS
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>PROJECT / 001</sub>
+<a href="https://github.com/supritmundagod/NIMBUS-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundagod&repo=NIMBUS-AI&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-# NIMBUS-AI
-
-**ARTIFICIAL INTELLIGENCE**
+**AI APPLICATION DEVELOPMENT**
 
 An AI-focused application development project.
-
-<br/>
-
-<a href="https://github.com/supritmundagod/NIMBUS-AI">EXPLORE PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<sub>PROJECT / 002</sub>
+<a href="https://github.com/supritmundagod/RAG">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundagod&repo=RAG&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-# RAG
+**RETRIEVAL-AUGMENTED GENERATION**
 
-**KNOWLEDGE RETRIEVAL**
-
-A Retrieval-Augmented Generation project.
-
-<br/>
-
-<a href="https://github.com/supritmundagod/RAG">EXPLORE PROJECT ↗</a>
+A project exploring RAG-based applications.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" align="center">
 
-<sub>PROJECT / 003</sub>
-
-# KARTZO
+<a href="https://github.com/supritmundagod/KARTZO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=supritmundagod&repo=KARTZO&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
 **WEB DEVELOPMENT**
 
 A web application development project.
 
-<br/>
-
-<a href="https://github.com/supritmundagod/KARTZO">EXPLORE PROJECT ↗</a>
-
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/supritmundagod?tab=repositories">
-
-<img src="https://img.shields.io/badge/ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=287BFF"/>
-
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
-
-### 06 — GITHUB ANALYTICS
+## ✦ GitHub Analytics
 
 <div align="center">
 
 <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="40%" alt="Most Used Languages"/>
+<img src="./profile/top-langs.svg" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
 <a href="https://github.com/supritmundagod?tab=overview">
-VIEW CONTRIBUTION HISTORY ↗
+<img src="https://img.shields.io/badge/VIEW_CONTRIBUTION_HISTORY-172554?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
-
-### 07 — CONTACT
-
-<table>
-<tr>
-<td width="50%">
-
-**GITHUB**
-
-<a href="https://github.com/supritmundagod">github.com/supritmundagod ↗</a>
-
-</td>
-<td width="50%">
-
-**LINKEDIN**
-
-<a href="https://www.linkedin.com/in/suprit-mundagod">Connect professionally ↗</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
+## ✦ Beyond The Code
 
 <div align="center">
 
+|      EXPLORE     |        CREATE       |       IMPROVE      |
+| :--------------: | :-----------------: | :----------------: |
+| New technologies | Practical solutions | Engineering skills |
+|  AI innovations  |   Digital products  | Better experiences |
+
 <br/>
 
-### GOOD IDEAS DESERVE GOOD ENGINEERING.
+### "Great things are built one iteration at a time."
 
-`THINK  /  BUILD  /  EXPERIMENT  /  REPEAT`
+</div>
 
-<br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=supritmundagod&label=PROFILE+VISITS&color=287BFF&style=flat-square"/>
+## ✦ Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/supritmundagod">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/suprit-mundagod">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0b0b0b"/>
+<img src="https://komarev.com/ghpvc/?username=supritmundagod&label=PROFILE+VISITORS&color=2563EB&style=flat-square"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172554,100:0369a1&height=100&section=footer"/>
 
 </div>
