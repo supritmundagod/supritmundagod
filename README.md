@@ -19,7 +19,7 @@ Turning ideas into impactful digital products.
 
 <br/><br/>
 
-<a href="https://github.com/supritmundgod">
+<a href="https://github.com/supritmundagod">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -27,19 +27,13 @@ Turning ideas into impactful digital products.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/supritmundgod?tab=repositories">
+<a href="https://github.com/supritmundagod?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-<!-- ================================================= -->
-
-<!--                    ABOUT ME                       -->
-
-<!-- ================================================= -->
 
 ## ◈ About Me
 
@@ -75,12 +69,6 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 ---
 
-<!-- ================================================= -->
-
-<!--                    TECH STACK                     -->
-
-<!-- ================================================= -->
-
 ## ◈ Technology Arsenal
 
 <div align="center">
@@ -105,72 +93,52 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 ---
 
-<!-- ================================================= -->
-
-<!--                   PROJECTS                        -->
-
-<!-- ================================================= -->
-
 ## ◈ Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/supritmundgod/NIMBUS-AI">
-  <h3> NIMBUS-AI </h3>
+<a href="https://github.com/supritmundagod/NIMBUS-AI">
+<h3>NIMBUS-AI</h3>
 </a>
 <p>AI-powered application development project.</p>
 
-<a href="https://github.com/supritmundgod/RAG">
-  <h3> RAG </h3>
+<a href="https://github.com/supritmundagod/RAG">
+<h3>RAG</h3>
 </a>
 <p>Retrieval-Augmented Generation project.</p>
 
-<a href="https://github.com/supritmundgod/KARTZO">
-  <h3> KARTZO </h3>
+<a href="https://github.com/supritmundagod/KARTZO">
+<h3>KARTZO</h3>
 </a>
 <p>Web development project.</p>
 
 <br/>
 
-<a href="https://github.com/supritmundgod?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/supritmundagod?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
 ---
-<!-- ================================================= -->
-
-<!--                  GITHUB STATS                     -->
-
-<!-- ================================================= -->
-
-<!-- GITHUB ANALYTICS -->
 
 ## ◈ GitHub Analytics
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
-<img src="./profile/top-langs.svg" width="40%" />
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+<img src="./profile/top-langs.svg" width="40%" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-
-<!--                 CONTRIBUTIONS                     -->
-
-<!-- ================================================= -->
-
-<!-- GITHUB ANALYTICS -->
-
 ## ◈ Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/supritmundgod?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://img.shields.io/badge/View-GitHub_Contribution_History-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/supritmundagod?tab=overview">
+<img src="https://img.shields.io/badge/View-GitHub_Contribution_History-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -179,17 +147,11 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 ---
 
-<!-- ================================================= -->
-
-<!--                    CONNECT                        -->
-
-<!-- ================================================= -->
-
 ## ◈ Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/supritmundgod">
+<a href="https://github.com/supritmundagod">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -201,18 +163,12 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 ---
 
-<!-- ================================================= -->
-
-<!--                     FOOTER                        -->
-
-<!-- ================================================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=120&section=footer"/>
 
 <h3>Code with purpose. Build with curiosity.</h3>
 
-<img src="https://komarev.com/ghpvc/?username=supritmundgod&label=PROFILE+VIEWS&color=2563eb&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=supritmundagod&label=PROFILE+VIEWS&color=2563eb&style=flat-square"/>
 
 </div>
