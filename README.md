@@ -1,83 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0b0b0b"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=ENGINEERING+INTELLIGENCE.;BUILDING+BEYOND+THE+OBVIOUS.;FROM+IDEA+TO+IMPLEMENTATION."/>
-
-<br/>
-
-# SUPRIT MUNDAGOD
-
-### AI ENGINEERING & FULL STACK DEVELOPMENT
-
-<p>
-I build intelligent systems, practical applications and digital experiences.<br/>
-Focused on engineering solutions that are useful, scalable and thoughtfully designed.
-</p>
-
-<br/>
-
-<a href="https://github.com/supritmundagod">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/suprit-mundagod">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-1E293B?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=13&duration=3500&pause=1200&color=287BFF&center=true&vCenter=true&width=500&lines=INDEPENDENT+THINKER.;ENGINEERING+INTELLIGENCE.;BUILDING+WHAT+MATTERS."/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=2"/>
+# SUPRIT MUNDAGOD
+
+### <sup>01 — DISCIPLINE</sup>
+
+# AI ENGINEER
+
+### <sup>02 — CRAFT</sup>
+
+# FULL STACK DEVELOPER
+
+<br/>
+
+`ARTIFICIAL INTELLIGENCE`   ·   `SOFTWARE ENGINEERING`   ·   `PRODUCT DEVELOPMENT`
+
+<br/><br/>
+
+<a href="https://github.com/supritmundagod">GITHUB ↗</a>
+     <a href="https://www.linkedin.com/in/suprit-mundagod">LINKEDIN ↗</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
 
 </div>
 
 <br/>
 
-## 01 / THE PROFILE
-
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="65%" valign="top">
 
-### Building at the intersection of AI & Software.
+### 03 — ABOUT
 
-I'm a Computer Science student interested in turning complex ideas into functional software.
+## Engineering ideas into reality.
 
-My work focuses on combining intelligent technologies with modern application engineering.
+Computer Science student focused on the intersection of Artificial Intelligence and Full Stack Engineering.
 
-I enjoy exploring how systems work, solving engineering problems and building products with meaningful functionality.
+Interested in building intelligent applications, designing scalable systems and turning complex technical ideas into useful products.
 
-**Current direction:** AI-powered applications, full stack development and scalable software systems.
+I value thoughtful engineering, practical experimentation and clean implementation.
 
 </td>
-<td width="42%" valign="top">
+<td width="35%" valign="top">
 
-### ENGINEERING IDENTITY
+### CURRENT FOCUS
 
-```yaml
-name: Suprit Mundgod
+`01` AI Applications
 
-role:
-  - AI Developer
-  - Full Stack Developer
+`02` Full Stack Systems
 
-education:
-  Computer Science
+`03` Backend Engineering
 
-interests:
-  - Artificial Intelligence
-  - System Design
-  - Web Engineering
-  - Problem Solving
+`04` Product Development
 
-mindset:
-  Build
-  Experiment
-  Refine
-  Repeat
-```
+<br/>
+
+**PHILOSOPHY**
+
+Build deliberately.
+
+Experiment constantly.
+
+Improve continuously.
 
 </td>
 </tr>
@@ -85,91 +78,98 @@ mindset:
 
 <br/>
 
-## 02 / TECHNICAL CAPABILITIES
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
 
-<div align="center">
+### 04 — TECHNICAL ECOSYSTEM
 
-### LANGUAGES
+<table>
+<tr>
+<td width="25%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql&theme=dark"/>
+**LANGUAGES**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
 
-### FRONTEND ENGINEERING
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/>
+</td>
+<td width="25%" valign="top">
 
-<br/><br/>
+**FRONTEND**
 
-### BACKEND ENGINEERING
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark"/>
+</td>
+<td width="25%" valign="top">
 
-<br/><br/>
+**BACKEND**
 
-### DEVELOPMENT ENVIRONMENT
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+</td>
+<td width="25%" valign="top">
 
-</div>
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 03 / SELECTED WORK
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=2"/>
-
-</div>
+### 05 — SELECTED WORKS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — NIMBUS-AI
+<sub>PROJECT / 001</sub>
 
-**INTELLIGENCE / APPLICATION**
+# NIMBUS-AI
+
+**ARTIFICIAL INTELLIGENCE**
 
 An AI-focused application development project.
 
 <br/>
 
-<a href="https://github.com/supritmundagod/NIMBUS-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020"/>
-</a>
+<a href="https://github.com/supritmundagod/NIMBUS-AI">EXPLORE PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — RAG
+<sub>PROJECT / 002</sub>
 
-**AI / KNOWLEDGE RETRIEVAL**
+# RAG
 
-A project focused on Retrieval-Augmented Generation.
+**KNOWLEDGE RETRIEVAL**
+
+A Retrieval-Augmented Generation project.
 
 <br/>
 
-<a href="https://github.com/supritmundagod/RAG">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020"/>
-</a>
+<a href="https://github.com/supritmundagod/RAG">EXPLORE PROJECT ↗</a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 03 — KARTZO
+<sub>PROJECT / 003</sub>
 
-**WEB / APPLICATION DEVELOPMENT**
+# KARTZO
 
-A web development project.
+**WEB DEVELOPMENT**
+
+A web application development project.
 
 <br/>
 
-<a href="https://github.com/supritmundagod/KARTZO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020"/>
-</a>
+<a href="https://github.com/supritmundagod/KARTZO">EXPLORE PROJECT ↗</a>
 
 </td>
 </tr>
@@ -177,61 +177,74 @@ A web development project.
 
 <div align="center">
 
-<br/>
-
 <a href="https://github.com/supritmundagod?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+
+<img src="https://img.shields.io/badge/ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=287BFF"/>
+
 </a>
 
 </div>
 
 <br/>
 
-## 04 / GITHUB TELEMETRY
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
+
+### 06 — GITHUB ANALYTICS
 
 <div align="center">
 
 <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="40%" alt="Language Statistics"/>
+<img src="./profile/top-langs.svg" width="40%" alt="Most Used Languages"/>
 
 <br/><br/>
 
 <a href="https://github.com/supritmundagod?tab=overview">
-<img src="https://img.shields.io/badge/OPEN_CONTRIBUTION_HISTORY-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020"/>
+VIEW CONTRIBUTION HISTORY ↗
 </a>
 
 </div>
 
 <br/>
 
-## 05 / THE PRINCIPLE
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333"/>
+
+### 07 — CONTACT
+
+<table>
+<tr>
+<td width="50%">
+
+**GITHUB**
+
+<a href="https://github.com/supritmundagod">github.com/supritmundagod ↗</a>
+
+</td>
+<td width="50%">
+
+**LINKEDIN**
+
+<a href="https://www.linkedin.com/in/suprit-mundagod">Connect professionally ↗</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
 <br/>
 
-### "Good software solves problems.
+### GOOD IDEAS DESERVE GOOD ENGINEERING.
 
-### Great software makes complexity feel simple."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=2"/>
+`THINK  /  BUILD  /  EXPERIMENT  /  REPEAT`
 
 <br/>
 
-**THINK DEEPLY. BUILD INTENTIONALLY. KEEP IMPROVING.**
+<img src="https://komarev.com/ghpvc/?username=supritmundagod&label=PROFILE+VISITS&color=287BFF&style=flat-square"/>
 
-<br/>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0b0b0b"/>
 
 </div>
-
-## 06 / FIND ME
-
-<div align="center">
-
-<a href="https://github.com/supritmundagod">
-<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="ht
