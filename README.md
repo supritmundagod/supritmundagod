@@ -1,98 +1,100 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Suprit Mundgod — AI and Full Stack Developer"/>
+# `> SUPRIT MUNDAGOD`
+
+### JR. AI & FULL STACK ENGINEER
+
+`Building intelligent systems. Engineering digital experiences.`
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-111827?style=flat-square&logo=github)](https://github.com/supritmundagod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suprit-mundagod)
+[GitHub](https://github.com/supritmundagod)  ·  [LinkedIn](https://www.linkedin.com/in/suprit-mundagod)
 
 </div>
 
 ---
 
-## 01 — Profile
+### `$ whoami`
 
-I'm a Computer Science student interested in building intelligent applications and practical software products.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Suprit Mundagod"
+        self.role = "Jr. AI & Full Stack Engineer"
+        self.languages = ["Java", "Python", "JavaScript", "SQL"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Full Stack Engineering",
+            "Backend Development",
+            "Problem Solving"
+        ]
 
-My focus is on combining AI capabilities with thoughtful full-stack engineering — from user-facing interfaces to backend systems and APIs.
-
-**Currently exploring:** AI-powered applications · Full-stack systems · Backend engineering · Product development
+    def motto(self):
+        return "Build. Break. Learn. Repeat."
+```
 
 ---
 
-## 02 — Technology
+### `$ tech_stack --list`
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Java · Python · JavaScript · SQL |
-| **Frontend** | React · Next.js · HTML · CSS |
-| **Backend** | Spring Boot · FastAPI · Flask |
-| **Tools** | Git · GitHub · VS Code · IntelliJ IDEA |
+| Category  | Technologies                           |
+| --------- | -------------------------------------- |
+| Languages | Java · Python · JavaScript · SQL       |
+| Frontend  | React · Next.js · HTML · CSS           |
+| Backend   | Spring Boot · FastAPI · Flask          |
+| Tools     | Git · GitHub · VS Code · IntelliJ IDEA |
 
 ---
 
-## 03 — Selected work
+### `$ ls ./projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/nimbus-card.svg" width="100%" alt="NIMBUS-AI project card"/>
-**AI application development**
+**01 / NIMBUS-AI**
 
-An AI-focused application project.
+`Python` · Artificial Intelligence
 
-[Explore repository →](https://github.com/supritmundagod/NIMBUS-AI)
-</td>
-<td width="50%" valign="top">
-<img src="./assets/rag-card.svg" width="100%" alt="RAG project card"/>
-**Retrieval-Augmented Generation**
+Exploring AI-powered solutions and intelligent applications.
 
-A project exploring RAG-based applications.
+[→ View Repository](https://github.com/supritmundagod/NIMBUS-AI)
 
-[Explore repository →](https://github.com/supritmundagod/RAG)
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<img src="./assets/kartzo-card.svg" width="100%" alt="KARTZO project card"/>
-**Web application development**
+**02 / RAG**
 
-A web development project.
+`HTML` · AI / RAG
 
-[Explore repository →](https://github.com/supritmundagod/KARTZO)
-</td>
-</tr>
-</table>
+Exploring retrieval-based approaches to working with AI systems.
+
+[→ View Repository](https://github.com/supritmundagod/RAG)
+
+**03 / KARTZO**
+
+`HTML` · Web Development
+
+Building practical digital experiences through web technologies.
+
+[→ View Repository](https://github.com/supritmundagod/KARTZO)
+
+---
+
+### `$ current_focus`
+
+* Developing AI-powered applications.
+* Building scalable full-stack systems.
+* Exploring modern AI technologies.
+* Writing clean and maintainable code.
+
+---
+
+### `$ git status`
+
+```text
+ROLE         : JR. AI & FULL STACK ENGINEER
+STATUS       : BUILDING
+INTERESTS    : AI / SOFTWARE ENGINEERING
+MINDSET      : ALWAYS LEARNING
+OBJECTIVE    : ENGINEER SOMETHING IMPACTFUL
+```
+
+---
 
 <div align="center">
 
-[ **Browse all repositories →** ](https://github.com/supritmundagod?tab=repositories)
-
-</div>
-
----
-
-## 04 — GitHub activity
-
-<div align="center">
-
-<img src="./profile/stats.svg" width="49%" alt="GitHub statistics"/>
-<img src="./profile/top-langs.svg" width="49%" alt="Most used languages"/>
-
-</div>
-
----
-
-## 05 — Connect
-
-If you're interested in AI, software engineering or building useful products, connect with me.
-
-- **GitHub:** [@supritmundagod](https://github.com/supritmundagod)
-- **LinkedIn:** [Suprit Mundgod](https://www.linkedin.com/in/suprit-mundagod)
-
-<div align="center">
-
-*Build with intent. Learn continuously. Make useful things.*
-
-</div>
+`// Think. Build. S
