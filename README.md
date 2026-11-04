@@ -147,13 +147,13 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supritmundgod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supritmundgod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=supritmundgod&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=supritmundgod&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritmundgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritmundgod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -169,7 +169,7 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supritmundgod&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=supritmundgod&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
